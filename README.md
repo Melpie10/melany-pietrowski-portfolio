@@ -19,10 +19,7 @@ It can also be accessed on the live website: https://melpie10.github.io/melany-p
  ## Visuals
 
 The website looks like this when opened on Google Chrome: 
- ![Screenshot of Horiseon Website](./assets/images/Horiseon-Website-Screenshot.png)
-
-The title is now displayed in the tabs:
-![Title Displayed in tabs](./assets/images/Titled-displayed.png)
+ ![Screenshot of Mel Pietrowski Website](./assets/images/screenshot-portfolio.png)
 
 
 ## Contributing
