@@ -12,9 +12,9 @@ One of the challenges for this project was to really decide what was needed to b
 
 The website can be accessed from Github repository:
 
-https://github.com/Melpie10/Horiseon-Refractor-Challenge-.git
+https://github.com/Melpie10/melany-pietrowski-portfolio.git
 
-It can also be accessed on the live website: https://melpie10.github.io/Horiseon-Refractor-Challenge-/
+It can also be accessed on the live website: https://melpie10.github.io/melany-pietrowski-portfolio/
 
  ## Visuals
 
